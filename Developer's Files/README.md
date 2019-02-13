@@ -3,7 +3,7 @@ My project "Weather App - JavaScript" was created during Coders Lab course. This
  
 
 ## Used technologies
-I used HTML, SCSS, RWD, JavaScript, jQuery, AJAX and external API: https://ipapi.co/json/ | https://graphhopper.com | https://darksky.net/dev | 
+I used HTML, SCSS, RWD, JavaScript, jQuery, AJAX and external API: https://ipapi.co/json/ | https://graphhopper.com | https://darksky.net/dev 
 
 ## Usage
 To start using this app click here: https://kamila-kubik.github.io/Weather_App_JavaScript/.
