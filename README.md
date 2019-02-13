@@ -3,13 +3,13 @@ My project "Weather App - JavaScript" was created during Coders Lab course. This
  
 
 ## Used technologies
-I used HTML, SCSS, RWD, JavaScript, jQuery, AJAX and external API: https://ipapi.co/json/ | https://graphhopper.com | https://darksky.net/dev | 
+I used HTML, SCSS, RWD, JavaScript, jQuery, AJAX and external API: https://ipapi.co/json/ | https://graphhopper.com | https://darksky.net/dev 
 
 ## Usage
 To start using this app click here: https://kamila-kubik.github.io/Weather_App_JavaScript/.
  
 ## About
-Weather application will show you current temperature, wind speed, pressure, humidity, special icons and the
+Weather App will show you current temperature, wind speed, pressure, humidity, special icons and the
 weather forecast for next three days of the city that you enter in searching area. The first screen show you current weather based on your IP adress.
 
 First Screen
