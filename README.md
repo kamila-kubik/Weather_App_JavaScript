@@ -10,12 +10,12 @@ To start using this app click here: https://kamila-kubik.github.io/Weather_App_J
  
 ## About
 Weather App will show you current temperature, wind speed, pressure, humidity, special icons and the
-weather forecast for next three days of the city that you enter in searching area. The first screen show you current weather based on your IP adress.
+weather forecast for next three days of the city that you enter in searching area. The first screen shows you current weather based on your IP address.
 
 First Screen
 ![Weather App - FirstPage](./images/screen/1.png)
 
-Seraching area
+Searching area
 ![Weather App - SearchingArea](./images/screen/2.png)
 
 Result of searching
