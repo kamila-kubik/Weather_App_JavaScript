@@ -9,7 +9,7 @@ I used HTML, SCSS, RWD, JavaScript, jQuery, AJAX and external API: https://ipapi
 To start using this app click here: https://kamila-kubik.github.io/Weather_App_JavaScript/.
  
 ## About
-Weather App will show you current temperature, wind speed, pressure, humidity, special icons and the
+Weather App shows you current temperature, wind speed, pressure, humidity, special icons and the
 weather forecast for next three days of the city that you enter in searching area. The first screen shows you current weather based on your IP address.
 
 First Screen
